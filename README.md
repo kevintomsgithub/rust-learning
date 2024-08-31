@@ -95,3 +95,10 @@ match age {
 1. loops {}
 2. while <condition> {}
 3. for i in arr.iter() 
+
+* Generics
+* Traits
+* Implementation
+* Struct
+* module
+
