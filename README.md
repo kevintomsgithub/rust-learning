@@ -97,7 +97,7 @@ match age {
 3. for i in arr.iter() 
 
 * Generics
-* Traits
+* Traits - They are similar to Abstract classes but not quiet the same.
 * Implementation
 * Struct
 * module
